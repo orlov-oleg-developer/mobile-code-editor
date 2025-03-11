@@ -13,6 +13,11 @@
     "test:ui": "vitest --ui"
   },
   "dependencies": {
+    "@codemirror/basic-setup": "^0.20.0",
+    "@codemirror/commands": "^6.8.0",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.36.4",
     "classnames": "^2.5.1",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
